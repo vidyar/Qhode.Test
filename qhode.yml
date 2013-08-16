@@ -5,8 +5,3 @@ before_install: msbuild Shouldly.sln
 language: csharp
 notifications:
   
-email:
-    recipients:
-      -vidyar@qhode.com 
-          on_success: change
-    on_failure: change
