@@ -6,7 +6,6 @@ language: csharp
 notifications:
   email:
     recipients:
-      - vidyar@qhode.com
+      - vidyac.raghav@gmail.com
 	
-      on_success: always
-    on_failure: always
+      
