@@ -4,9 +4,4 @@ build_environment: win2012
 before_install: msbuild Shouldly.sln
 language: csharp
 notifications:
-  email:
-    recipients:
-      - vidyac.raghav@gmail.com
-        on_success:always
-        on_failure:always
   campfire: qhode1:99b2845783c6adf698c143927e45d11045c47804@572555
